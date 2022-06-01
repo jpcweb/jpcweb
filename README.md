@@ -1,4 +1,4 @@
-## Hi everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi everyone!
 
 I'm Jeremie, a passionate system administrator and lead developer from French Polynesia. I believe in team cohesion, effective management and I love sharing aha moments.
 
