@@ -1,6 +1,6 @@
 ## Hi everyone!
 
-I'm Jeremie, a passionate system administrator and lead developer from French Polynesia. I believe in team cohesion, effective management and I love sharing aha moments.
+I'm Jeremie, a passionate technical manager from French Polynesia. I believe in team cohesion, effective management and I love sharing aha moments.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
