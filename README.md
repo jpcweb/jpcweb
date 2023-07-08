@@ -17,9 +17,6 @@ I'm Jeremie, a passionate technical manager from French Polynesia. I believe in 
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
 
-<a href="https://twitter.com/jpc_webtahiti">
-  <img align="left" alt="Jérémie Payet | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/jeremiepayet/">
-  <img align="left" alt="jeremiepayet Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="jeremiepayet Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png" />
 </a>
