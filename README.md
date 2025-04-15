@@ -1,6 +1,5 @@
-## Greetings!
-
-Welcome! I'm Jeremie, a dedicated Technical Manager living in French Polynesia. My professional journey is anchored in fostering team unity, executing effective leadership, and celebrating the spark of 'eureka' moments in technology.
+## Hey there, I'm Jeremie -
+Technical Manager living in French Polynesia, passionate about team synergy, effective leadership, and the excitement of groundbreaking tech discoveries.
 
 ## Technologies & Expertise 🛠️
 I am proficient in a diverse array of operating systems, development environments, and programming languages. Below is a badge showcase of my technical skillset:
